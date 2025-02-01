@@ -3,6 +3,22 @@
     margin: 0;
 }
 
-.container {
+.hero {
     display: flex;
+    width: 375px;
+    height: 812px;
+    background-color: #141414;
+}
+
+.caixa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    border-radius: 24px;
+    margin: 116px 24px 116px 24px;
+    width: 327px;
+    height: 579px;
+    background-color: #1F1F1F;
+    gap: 24px;
 }
