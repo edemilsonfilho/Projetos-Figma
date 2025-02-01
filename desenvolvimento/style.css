@@ -3,64 +3,6 @@
     margin: 0;
 }
 
-body {
-    overflow: hidden;
-}
-
-.hero {
+.container {
     display: flex;
-    background-color: #F0F4F4;
-    width: 100vw;
-    height: 1080px;
-}
-
-#container {
-    display: flex;
-    flex-direction: column;
-    padding: 100px 166px 103px 164px;
-    ;
-    margin-top: 126px;
-    border-top-right-radius: 32px;
-    border-bottom-right-radius: 32px;
-    border-top-left-radius: 32px;
-    width: 463px;
-    height: 100%;
-    background-color: #ffffff;
-}
-
-.title {
-    font-size: 36px;
-    font-weight: 200;
-    color: #3E54A3;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.subtitle {
-    margin-top: 20px;
-    font-size: 14px;
-    font-family: 'Montserrat', sans-serif;
-    color: rgba(28, 32, 34, 1);
-}
-
-span {
-    font-weight: bold;
-    color: rgba(28, 32, 34, 1);
-}
-
-.bloco {
-    display: flex;
-    justify-content: center;
-    background-color: black;
-    margin-top: 103px;
-    /* height: 100%; */
-    border-radius: 40px;
-}
-
-
-.image-interna {
-    width: 730.28px;
-    height:50%;
-    margin: 24.64px 18.86px 21.88px 19.86px;
-    display: flex;
-    justify-content: center;
 }
